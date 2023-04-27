@@ -180,7 +180,12 @@ body {
   height: 40%;
 }
 
-.fb2a {width: 100%;}
+.fb2a {
+  width: 100%;
+  border-bottom: 10vh solid var(--building-color3);
+  border-left: 1vw solid transparent;
+  border-right: 1vw solid transparent;
+}
 
 .fb2b {width: 100%;
 height: 75%;
