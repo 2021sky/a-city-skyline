@@ -143,10 +143,13 @@ body {
 .fb1 {
   width: 10%;
   height: 60%;
-  background-color: var(--building-color4);
 }
 
-.fb1a {border-bottom: 7vh solid var(--building-color4)}
+.fb1a {
+  border-bottom: 7vh solid var(--building-color4);
+  border-left: 2vw solid transparent;
+  border-right: 2vw solid transparent;
+}
 
 .fb1b {
   width: 60%;
@@ -178,6 +181,10 @@ body {
   background-color: var(--building-color3);
 }
 
+.fb2a {width: 100%;}
+.fb2b {width: 100%;
+height: 75%;}
+
 .fb3 {
   width: 10%;
   height: 35%;
@@ -205,3 +212,4 @@ body {
   height: 38%;
   background-color: var(--building-color3);
 }
+    
