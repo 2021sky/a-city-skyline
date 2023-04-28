@@ -1,4 +1,4 @@
-# A City Skyline
+# City Skyline
 Link: 
 <a href="https://2021sky.github.io/a-city-skyline/" target="_blank"> https://2021sky.github.io/a-city-skyline/ </a>
 <br>
