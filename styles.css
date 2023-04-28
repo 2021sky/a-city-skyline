@@ -277,7 +277,6 @@ body {
 }
 
 @media (max-width: 1000px) {
-
   .sky {
     background: radial-gradient(closest-corner circle at 15% 15%,
         #ccc,
