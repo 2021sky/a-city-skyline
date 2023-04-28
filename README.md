@@ -1,6 +1,6 @@
 # City Skyline
 Link: 
-<a href="https://2021sky.github.io/a-city-skyline/" target="_blank"> https://2021sky.github.io/a-city-skyline/ </a>
+<a href="https://2021sky.github.io/city-skyline/" target="_blank"> https://2021sky.github.io/city-skyline/ </a>
 <br>
 <br>
 <br>
