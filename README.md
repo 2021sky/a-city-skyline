@@ -1,10 +1,10 @@
-# City Skyline
+# CITY SKYLINE
 Link: 
 <a href="https://2021sky.github.io/city-skyline/"> https://2021sky.github.io/city-skyline/ </a>
 <br>
 <br>
 <br>
-Created with:
+Languages:
 <br>
    <ul>
      <li>CSS</li>
